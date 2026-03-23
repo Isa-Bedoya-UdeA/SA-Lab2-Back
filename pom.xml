@@ -78,6 +78,7 @@
                 </executions>
             </plugin>
         </plugins>
+        <finalName>lab2SA</finalName>
     </build>
 
 </project>
