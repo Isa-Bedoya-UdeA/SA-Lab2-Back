@@ -1,4 +1,4 @@
-# SA-Lab2
+# SA-Lab2-Class
 
 [![CI/CD Pipeline](https://github.com/Isa-Bedoya-UdeA/SA-Lab2-Back/actions/workflows/build.yml/badge.svg)](https://github.com/Isa-Bedoya-UdeA/SA-Lab2-Back/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Isa-Bedoya-UdeA_SA-Lab2-Back&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Isa-Bedoya-UdeA_SA-Lab2-Back)
